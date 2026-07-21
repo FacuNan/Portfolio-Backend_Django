@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'educacion.apps.EducacionConfig',
     'experiencia.apps.ExperienciaConfig',
     'proyectos.apps.ProyectosConfig',
-    'sobre_mi.apps.SobreMiConfig'
+    'sobre_mi.apps.SobreMiConfig',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
